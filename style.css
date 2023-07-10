@@ -56,16 +56,11 @@
 
 .generators {
   display: inline-flex;
-  justify-content: center;
+  justify-content: space-evenly;
   align-items: center;
-  gap: 10vh;
-  
+    
 }
 
-.generator {
-  
-  border: 2px solid lightgrey;
-}
 
 .pv {
   border: 2px solid lightgray;
