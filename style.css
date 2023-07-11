@@ -1,3 +1,8 @@
+@media (max-width:800px) {
+  project {}
+}
+
+
 #resume {
     display: flex;
     justify-content: center;
@@ -31,7 +36,7 @@
   .feature-icon-small {
     width: 3rem;
     height: 3rem;
-    padding: 6px;
+    padding: 5px;
   }
   
   .my-life {
@@ -58,21 +63,12 @@
   display: flex;
   justify-content: center;
   align-items: center;
-  gap: 1rem;
-  
+  gap: 1rem;  
 }
 
 .generator {
-  
-  border: 2px solid lightgrey;
+border: 2px solid red;
 }
-
-.pv {
-  border: 2px solid lightgray;
-}
-
-
-
 
 
 .blue {
