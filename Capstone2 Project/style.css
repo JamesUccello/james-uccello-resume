@@ -1,0 +1,114 @@
+@media (max-width:800px) {
+  project {}
+}
+
+
+#resume {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: lightgray;
+    padding-left: 3rem;
+}
+
+.feature-icon {
+    width: 4rem;
+    height: 4rem;
+    border-radius: .75rem;
+  }
+  
+  .icon-square {
+    width: 3rem;
+    height: 3rem;
+    border-radius: .75rem;
+  }
+  
+  .text-shadow-1 { text-shadow: 0 .125rem .25rem rgba(0, 0, 0, .25); }
+  .text-shadow-2 { text-shadow: 0 .25rem .5rem rgba(0, 0, 0, .25); }
+  .text-shadow-3 { text-shadow: 0 .5rem 1.5rem rgba(0, 0, 0, .25); }
+  
+  .card-cover {
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+  }
+  
+  .feature-icon-small {
+    width: 3rem;
+    height: 3rem;
+    padding: 5px;
+  }
+  
+  .my-life {
+    font-size: large;
+    font-style: italic;
+    
+  }
+
+
+
+.about-me {
+  display: flex;
+  justify-content: center;
+  align-content: center;
+  background-color: lightgray;
+}
+
+.contact {
+  padding-left: 3rem;
+}
+
+
+.generators {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 1rem;  
+}
+
+.generator {
+border: 2px solid red;
+}
+
+
+.blue {
+  color: #0d6efd;
+}
+
+
+
+.btn-group {
+  background-color: #0d6efd;
+}
+
+
+.black {
+  color: black;
+}
+
+.aboutme {
+  background-color: lightgray;
+}
+
+.about {
+  background-color: lightgray;
+}
+
+.imdb {
+  border:1px solid #0d6efd;
+  }
+
+  .italic {
+    font-style: italic;
+  }
+
+  .bg-image {
+    background-image:  url(./images/blank-adobe-background.png) ;
+    height: 40vh;
+
+  }
+
+
+
+
+ 
